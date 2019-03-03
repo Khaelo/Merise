@@ -1,6 +1,6 @@
 ID,Nom,Date de début,Date de fin,Durée,Avancée,Coût,Responsable,Prédécesseurs,Numéro hiérarchique,Ressources,Assignments,Nouvelle tâche,Lien internet,Notes
-7,Préparation à la présentation MERISE,08/02/19,08/02/19,1,0,0,,,1,,,"#ffff33",,QQOQCCP
-8,Faire le MPD et la BD,14/02/19,14/02/19,1,0,0,,9,5,,,"#ff3300",,Faire le MPD et BD de notre étude de cas dans le SGBDR.
-9,MLD,13/02/19,13/02/19,1,0,0,,10,4,,,"#ff6600",,FAire le MLD de notre étude de cas
-10,MCD,12/02/19,12/02/19,1,0,0,,11,3,,,"#ff9900",,Faire le MCD de notre étude de cas
-11,MOT,11/02/19,11/02/19,1,0,0,,7,2,,,"#ffcc00",," Faire le MOT de notre étude cas"
+7,Préparation à la présentation MERISE,08/02/19,08/02/19,1,1,,Luca,,1,,,"#ffff33",,QQOQCCP
+8,Faire le MPD et la BD,14/02/19,14/02/19,1,0,,,9,5,,,"#ff3300",,Faire le MPD et BD de notre étude de cas dans le SGBDR.
+9,MLD,13/02/19,13/02/19,1,0,,,10,4,,,"#ff6600",,FAire le MLD de notre étude de cas
+10,MCD,12/02/19,12/02/19,1,0,,Calvin,11,3,,,"#ff9900",,Faire le MCD de notre étude de cas
+11,MOT,11/02/19,11/02/19,1,0,,Yann,7,2,,,"#ffcc00",," Faire le MOT de notre étude cas"
